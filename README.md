@@ -31,7 +31,7 @@ There are no known bugs.
   The main technical features in my project:
 - I made it fully responsive as much i can using media queries.
 - Well categorized sections for user friendliness.
--Image hovering effect for better user experiance.
+- Image hovering effect for better user experiance.
 
 ## BIBLIOGRAPHY:
 - https://www.google.com
