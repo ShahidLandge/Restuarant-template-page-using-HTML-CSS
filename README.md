@@ -14,7 +14,8 @@ The website, is divided into the following sections:
 The website is filled with dummy text where needed. 
 
 
-## Features:  The website shows the menu section with famous dishes and desserts along with their prices. On each image, hover effect is applied for good and attractive user experience. It also shows the offers and services of the restaurant. It is made fully responsive using media queries.
+## Features :
+The website shows the menu section with famous dishes and desserts along with their prices. On each image, hover effect is applied for good and attractive user experience. It also shows the offers and services of the restaurant. It is made fully responsive using media queries.
 Tech Stack: HTML, CSS.
 
 
